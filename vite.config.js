@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/hw1-react-js/',
+  base: '/hw1-react-jsx/',
   plugins: [
     react({
       babel: {
