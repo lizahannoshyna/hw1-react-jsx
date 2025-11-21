@@ -56,7 +56,7 @@ function App() {
       {sitePost}
 
       <div className="sum__wrp">
-      <h3 className='sum__title'>Сума чисел</h3>
+      <h3 className='sum__title'>- Сума чисел -</h3>
       <p className='sum'>{firstNum} + {secondNum} = {sum}</p>
       </div>
 
